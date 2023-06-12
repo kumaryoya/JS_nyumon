@@ -16,4 +16,4 @@ document.addEventListener('DOMContentLoaded', () => {
     currentValue -= parseInt(amount)
     jsResult.innerText = currentValue
   })
-})
+});
